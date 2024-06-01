@@ -1,6 +1,6 @@
 # safe-zip-ai
+Randomforest Regressor를 사용하여 주택의 가격을 예측해주는 모델을 학습 </br>
 
-# Randomforest Regressor를 사용하여 주택의 가격을 예측해주는 모델을 학습 
 독립변수 - 계약날짜, 층, 면적, 건축년도 등 </br>
 타겟변수 - 거래금액 </br>
 
